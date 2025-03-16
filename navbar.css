@@ -1,0 +1,35 @@
+/* navbar.css */
+
+/* Set a custom background color for the navbar */
+.custom-navbar {
+    background-color: white; /* Green background */
+  }
+  
+  /* Customize the brand text */
+  .custom-navbar .navbar-brand {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: black; /* White text */
+  }
+  
+  /* Style the navigation links */
+  .custom-navbar .nav-link {
+    color: black; /* White text */
+    margin-right: 1rem;
+  }
+  
+  /* Change color on hover */
+  .custom-navbar .nav-link:hover {
+    color: #FFD700; /* Gold text on hover */
+  }
+  
+  /* Style the cart count badge */
+  .custom-navbar .cart-count {
+    background-color: #FFD700; /* Gold background */
+    color: #000000; /* Black text */
+    border-radius: 50%;
+    padding: 0.2rem 0.6rem;
+    font-size: 0.9rem;
+    margin-left: 0.5rem;
+  }
+  
